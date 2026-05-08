@@ -85,5 +85,7 @@ Sou um desenvolvedor em formação focado em construir soluções eficientes e v
 
 ###
 
+
+
 ---
 *"O código é como humor. Se você tem que explicar, é ruim."*
