@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Ruan Basilio! 👋
 
 ### 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas (Último Ano)
 
@@ -34,9 +34,16 @@ Sou um desenvolvedor em formação focado em construir soluções eficientes e v
 ---
 
 ### 📫 Vamos nos conectar?
+<p align="left">Hello World!!</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[SEU-LINKEDIN])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
 
 ---
 *"O código é como humor. Se você tem que explicar, é ruim."*
