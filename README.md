@@ -75,5 +75,9 @@ Sou um desenvolvedor em formação focado em construir soluções eficientes e v
 
 ###
 
+<img src="https://raw.githubusercontent.com/ruanbasilio/ruanbasilio/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 ---
 *"O código é como humor. Se você tem que explicar, é ruim."*
