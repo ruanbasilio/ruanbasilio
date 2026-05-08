@@ -8,7 +8,6 @@ Sou um desenvolvedor em formação focado em construir soluções eficientes e v
 
 ### 🛠️ Minha Caixa de Ferramentas
 
-<p align="left">Hello World!!</p>
 
 ###
 
