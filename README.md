@@ -1,21 +1,42 @@
-# 🚀 TaskManager API - Python & SQL
+# Olá, eu sou o [Seu Nome]! 👋
 
-Este projeto é uma API RESTful desenvolvida para o gerenciamento de tarefas, demonstrando a integração entre o backend em Python e a persistência de dados em SQL.
+### 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas (Último Ano)
 
-## 🛠️ Tecnologias e Ferramentas
-* **Linguagem:** Python 3.x
-* **Framework:** Flask
-* **Banco de Dados:** SQLite
-* **Documentação de API:** Insomnia / Postman
-* **Prototipagem:** [Figma](link-do-seu-figma-aqui)
+Sou um desenvolvedor em formação focado em construir soluções eficientes e visualmente atraentes. Adoro transitar entre a lógica do **Backend** e o refinamento do **Front-end**, sempre utilizando boas práticas de UI/UX.
 
-## 📋 Funcionalidades
-- [x] Criar novas tarefas via requisição POST.
-- [x] Listar todas as tarefas armazenadas no banco SQL.
-- [x] Persistência de dados local (SQLite).
+---
 
-## 🚀 Como executar o projeto
+### 🛠️ Minha Caixa de Ferramentas
 
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/seu-usuario/nome-do-repo.git)
+- **Linguagens:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **Banco de Dados:** ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white) (PostgreSQL/MySQL/SQLite)
+- **Design & Prototipagem:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- **Ferramentas de Teste:** ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+
+---
+
+### 🚀 O que estou buscando agora?
+
+* 🎓 Concluindo minha graduação em ADS.
+* 🐍 Aprofundando conhecimentos em **Frameworks Python** (Django/FastAPI).
+* 🎨 Integrando o fluxo de design do **Figma** com desenvolvimento Front-end responsivo.
+* 💾 Criando arquiteturas de banco de dados robustas e consultas SQL otimizadas.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&langs_count=7&theme=dracula" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[SEU-LINKEDIN])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
+---
+*"O código é como humor. Se você tem que explicar, é ruim."*
