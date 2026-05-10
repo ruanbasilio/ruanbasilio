@@ -10,8 +10,8 @@ Sou focado em **arquitetura, performance, código limpo e soluções voltadas pa
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub-RUANBASILIO-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Instagram-@RUANBASILIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-ruanbasilio-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Instagram-@ruannbasilio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
 ---
