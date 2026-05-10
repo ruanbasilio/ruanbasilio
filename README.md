@@ -1,90 +1,63 @@
-# Olá, eu sou o Ruan Basilio! 👋
+# Olá, eu sou o Ruan Basilio
 
-### 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas 
+🚀 **Desenvolvedor de Sistemas Júnior | Especialista em JavaScript e CSS** 🇧🇷 Brasil
 
-Sou um desenvolvedor em formação focado em construir soluções eficientes e visualmente atraentes. Adoro transitar entre a lógica do **Backend** e o refinamento do **Front-end**, sempre utilizando boas práticas de UI/UX.
-
----
-
-### 🛠️ Minha Caixa de Ferramentas
-
-
-###
-
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-
-###
----
-
-### 🚀 O que estou buscando agora?
-
-* 🎓 Concluindo minha graduação em ADS.
-* 🐍 Aprofundando conhecimentos em **Frameworks Python** (Django/FastAPI).
-* 🎨 Integrando o fluxo de design do **Figma** com desenvolvimento Front-end responsivo.
-* 💾 Criando arquiteturas de banco de dados robustas e consultas SQL otimizadas.
+Eu construo **produtos escaláveis** e **sistemas web de alta performance**.  
+Sou focado em **arquitetura, performance, código limpo e soluções voltadas para negócios**.
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🌐 Onde me encontrar
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&langs_count=7&theme=dracula" />
+  <img src="https://img.shields.io/badge/GitHub-RUANBASILIO-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Instagram-@RUANBASILIO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Vamos nos conectar?
+## 🧠 O que eu faço
 
-<img src="https://raw.githubusercontent.com/ruanbasilio/ruanbasilio/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-
-
-###
-
-###
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/ruanbasilio/ruanbasilio/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-
+- ⚡ Otimização de performance
+- 🧩 Arquitetura limpa e design de sistemas
+- 🤖 Automação de processos
+- 🎓 Ensino e mentoria para desenvolvedores
 
 ---
-*"O código é como humor. Se você tem que explicar, é ruim."*
+
+## 🛠️ Tecnologias (Tech Stack)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![CSS](https://img.shields.io/badge/CSS-512BD4?style=for-the-badge&logo=css)
+![HTML](https://img.shields.io/badge/HTML-F87C17?style=for-the-badge&logo=html)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Python](https://img.shields.io/badge/Python-FFDA40?style=for-the-badge&logo=python)
+
+### DevOps & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 🚀 Filosofia
+
+> _"Código não é apenas sobre resolver problemas.  
+> É sobre construir soluções que escalam, duram e geram valor real."_
+
+---
+
+⭐ Se você gosta do meu trabalho, considere dar uma estrela em um repositório  
+🤝 Sempre aberto a colaborações, parcerias e ideias interessantes
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruanbasilio/ruanbasilio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruanbasilio/ruanbasilio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ruanbasilio/ruanbasilio/output/pacman-contribution-graph.svg">
+</picture>
