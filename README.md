@@ -1,6 +1,6 @@
 # Olá, eu sou o Ruan Basilio
 
-🚀 **Desenvolvedor de Sistemas Júnior | Especialista em JavaScript e CSS** 🇧🇷 Brasil
+🚀 **Desenvolvedor de Sistemas Júnior | 
 
 Eu construo **produtos escaláveis** e **sistemas web de alta performance**.  
 Sou focado em **arquitetura, performance, código limpo e soluções voltadas para negócios**.
@@ -43,10 +43,7 @@ Sou focado em **arquitetura, performance, código limpo e soluções voltadas pa
 
 ---
 
-## 🚀 Filosofia
 
-> _"Código não é apenas sobre resolver problemas.  
-> É sobre construir soluções que escalam, duram e geram valor real."_
 
 ---
 
