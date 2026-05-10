@@ -28,13 +28,14 @@ Sou focado em **arquitetura, performance, código limpo e soluções voltadas pa
 ## 🛠️ Tecnologias (Tech Stack)
 
 ### Frontend
+![HTML](https://img.shields.io/badge/HTML-F87C17?style=for-the-badge&logo=html)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![CSS](https://img.shields.io/badge/CSS-512BD4?style=for-the-badge&logo=css)
-![HTML](https://img.shields.io/badge/HTML-F87C17?style=for-the-badge&logo=html)
 
 ### Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/Python-FFDA40?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
 
 ### DevOps & Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
