@@ -33,7 +33,6 @@ Sou focado em **arquitetura, performance, código limpo e soluções voltadas pa
 ![HTML](https://img.shields.io/badge/HTML-F87C17?style=for-the-badge&logo=html)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/Python-FFDA40?style=for-the-badge&logo=python)
 
