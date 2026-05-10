@@ -1,6 +1,6 @@
 # Olá, eu sou o Ruan Basilio
 
-🚀 **Desenvolvedor de Sistemas Júnior | 
+🚀 Desenvolvedor de Sistemas Júnior | 
 
 Eu construo **produtos escaláveis** e **sistemas web de alta performance**.  
 Sou focado em **arquitetura, performance, código limpo e soluções voltadas para negócios**.
